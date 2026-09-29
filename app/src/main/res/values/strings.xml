@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SAATHI</string>
+    <string name="accessibility_service_description">Enables SAATHI to detect emergency hardware volume button presses to trigger SOS even when the phone screen is locked.</string>
+</resources>
